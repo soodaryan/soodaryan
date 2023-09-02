@@ -1,6 +1,8 @@
  <h1 align ="center">Hi 👋 , I am Aryan Sood</h1> 
 - 🔭 I’m currently studying in Delhi Technological University <br>
-- 🌱 I’m currently learning C and web development <br>
+- 🌱 I’m currently learning C and web development <be>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/c0der-aryan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soodaryan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aryan_sood_pvtt/)  
+
 <!--
 **c0der-aryan/c0der-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
