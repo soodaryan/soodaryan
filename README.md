@@ -1,4 +1,4 @@
- :-:<h1>Hi 👋 , I am Aryan Sood</h1> 
+ <h1 align ="center">Hi 👋 , I am Aryan Sood</h1> 
 - 🔭 I’m currently studying in Delhi Technological University
 - 🌱 I’m currently learning C and web development
 <!--
