@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Sood</h1>
 <br>
-<p><img align="right" src="https://drive.google.com/file/d/1U2BbV7AkXhCYrmKhVKEvIbcO2dyfs-Qr/view?usp=drive_link" alt="adam-pw" height="20%" width="20%" /></p>
+<p><img align="right" src="dazzle-man-programmer-writing-code-on-a-laptop.gif" alt="adam-pw" height="20%" width="20%" /></p>
 
 
 - 🔭 I’m currently studying at Delhi Technological University <br>
