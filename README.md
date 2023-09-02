@@ -51,7 +51,7 @@
 **c0der-aryan/c0der-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--<a href="007aryansood@gmail.com" target="blank"><img align="center"
       src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"
-      alt="Aryan" height="30" width="40" /></a>-->
+      alt="Aryan" height="30" width="40" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
