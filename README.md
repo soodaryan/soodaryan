@@ -1,6 +1,6 @@
  <h1 align ="center">Hi 👋 , I am Aryan Sood</h1> 
-- 🔭 I’m currently studying in Delhi Technological University
-- 🌱 I’m currently learning C and web development
+- 🔭 I’m currently studying in Delhi Technological University <br>
+- 🌱 I’m currently learning C and web development <br>
 <!--
 **c0der-aryan/c0der-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
