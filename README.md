@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Sood</h1>
 <br>
-<p><img align="right" src="[https://anuragbhardwaj.netlify.app/codingguy.gif](https://ouch-cdn2.icons8.com/aoy7KiUtGyB2ed_VeK-cUqnyQCJXXDc5NrnUmLslNGQ/rs:fit:736:552/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTU2/LzIwMmFkMWFjLTgy/MTItNDQ4ZS04MDc5/LTVjZDUzZjY3ZTQx/YS5wbmc.png)" alt="adam-pw" height="20%" width="20%" /></p>
+<p><img align="right" src="https://drive.google.com/file/d/1U2BbV7AkXhCYrmKhVKEvIbcO2dyfs-Qr/view?usp=drive_link" alt="adam-pw" height="20%" width="20%" /></p>
 
 
 - 🔭 I’m currently studying at Delhi Technological University <br>
