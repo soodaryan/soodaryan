@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Sood</h1>
 <br>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="80%" width="80%" /></p>
 
 
 - 🔭 I’m currently studying at Delhi Technological University <br>
@@ -12,9 +12,9 @@
   <a href="https://www.linkedin.com/in/soodaryan/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="aryan sood" height="30" width="40" /></a>
- <a href="007aryansood@gmail.com" target="blank"><img align="center"
+ <!--<a href="007aryansood@gmail.com" target="blank"><img align="center"
       src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"
-      alt="Aryan" height="30" width="40" /></a>
+      alt="Aryan" height="30" width="40" /></a>-->
 </p>
 
 
