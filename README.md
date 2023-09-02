@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Sood</h1>
 <br>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="70%" width="70%" /></p>
+<p><img align="right" src="https://www.rtspvtltd.com/images/work/software.gif" alt="adam-pw" height="70%" width="70%" /></p>
 
 
 - 🔭 I’m currently studying at Delhi Technological University <br>
