@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently studying at Delhi Technological University <br>
-- 🌱 I’m currently learning C, Python and Full stack web development <br>
+- 🌱 I’m currently learning C, Python and Artificial Intelligence <br>
 
   
 <h3 align="left">Connect with me:</h3>
