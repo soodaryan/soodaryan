@@ -33,6 +33,3 @@
 [![Devpost](https://img.shields.io/badge/Devpost-%230077B5.svg?logo=devpost&logoColor=white&color=023d54&style=flat)](https://devpost.com/vansh2101)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/vansh_2101) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white&style=flat)](https://www.kaggle.com/soodaryan)
-
-[![](https://visitcount.itsvg.in/api?id=c0der-aryan&icon=0&color=10)](https://visitcount.itsvg.in)
-
