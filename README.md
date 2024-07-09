@@ -1,6 +1,10 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Aryan!
+## Hello Fellow < Syntax Sifters/ >! 🧩
+👋 Hi, I'm Aryan! Thank you for visiting my GitHub account!
+
+# About Me: 
+💻 Just a Syntax Sifter navigating the digital seas, debugging the glitches, and crafting clean code one line at a time. 🧩💻
 👨🏻‍💻 BTech undergrad trying to make a career in research br/>
 🙋🏻‍♂️ Studying [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
 💭 Currently learning about machine learning and deep learning!<br/>
@@ -20,3 +24,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+# Socials 🙌🏻 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=blue&style=flat)](https://linkedin.com/in/vanshsachdeva) 
+[![Devpost](https://img.shields.io/badge/Devpost-%230077B5.svg?logo=devpost&logoColor=white&color=9cf&style=flat)](https://devpost.com/vansh2101)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/vansh_2101) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white&style=flat)](https://www.kaggle.com/soodaryan)
