@@ -4,7 +4,7 @@
 👋 Hi, I'm Aryan! Thank you for visiting my GitHub account!
 
 # About Me: 
-💻 Just a Syntax Sifter navigating the digital seas, debugging the glitches, and crafting clean code one line at a time. 🧩💻
+💻 Just a Syntax Sifter navigating the digital seas, debugging the glitches, and crafting clean code one line at a time. 🧩💻 <br/>
 👨🏻‍💻 BTech undergrad trying to make a career in research <br/>
 🙋🏻‍♂️ Studying Computer Science at Delhi Technological University (earlier DCE)<br/>
 💭 Currently learning about machine learning and deep learning!<br/>
