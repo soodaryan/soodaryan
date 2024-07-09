@@ -11,7 +11,8 @@
 🍄 PyTorch uwu
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vansh2101&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
