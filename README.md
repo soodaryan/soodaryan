@@ -10,11 +10,6 @@
 💭 Currently learning about machine learning and deep learning!<br/>
 🍄 PyTorch uwu
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=c0der-aryan&theme=radical&hide_border=false)
-
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,8 +22,17 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+# 📈 GitHub stats
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=c0der-aryan&theme=radical&hide_border=false)
+
+
 # Socials 🙌🏻 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=blue&style=flat)](https://linkedin.com/in/vanshsachdeva) 
 [![Devpost](https://img.shields.io/badge/Devpost-%230077B5.svg?logo=devpost&logoColor=white&color=023d54&style=flat)](https://devpost.com/vansh2101)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/vansh_2101) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white&style=flat)](https://www.kaggle.com/soodaryan)
+
+[![](https://visitcount.itsvg.in/api?id=c0der-aryan&icon=0&color=10)](https://visitcount.itsvg.in)
+
