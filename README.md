@@ -30,8 +30,6 @@
 
 # Socials 🙌🏻 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=blue&style=flat)](https://www.linkedin.com/in/soodaryan/)
-[![Devfolio](https://img.shields.io/badge/Devpost-%230077B5.svg?logo=devfolio&logoColor=white&color=3670ff&style=flat)](https://devfolio.co/@roadkill)
 [![Devfolio](https://img.shields.io/badge/Devfolio-1A73E8.svg?style=flat&logo=devfolio&logoColor=white)](https://devfolio.co/@roadkill)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/vansh_2101) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/_soodaryan/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white&style=flat)](https://www.kaggle.com/soodaryan)
