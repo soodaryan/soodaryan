@@ -1,65 +1,22 @@
-<h1 align="center">Hi 👋, I'm Aryan Sood</h1>
-<br>
-<p><img align="right" src="dazzle-man-programmer-writing-code-on-a-laptop.gif" alt="adam-pw" height="40%" width="40%" /></p>
+<!-- Level 3: Add custom code -->
 
+# 👋 Hi, I'm Aryan!
+👨🏻‍💻 BTech undergrad trying to make a career in research br/>
+🙋🏻‍♂️ Studying [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
+💭 Currently learning about machine learning and deep learning!<br/>
+🍄 PyTorch uwu
 
-- 🔭 I’m currently studying at Delhi Technological University <br>
-- 🌱 I’m currently learning C, Python and Artificial Intelligence <br>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/soodaryan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="aryan sood" height="30" width="40" /></a>
- 
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <h1 align ="center">Hi 👋 , I am Aryan Sood</h1> 
-- 🔭 I’m currently studying in Delhi Technological University <br>
-- 🌱 I’m currently learning C and web development <be>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/c0der-aryan)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soodaryan/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aryan_sood_pvtt/)  
-
-**c0der-aryan/c0der-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--<a href="007aryansood@gmail.com" target="blank"><img align="center"
-      src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"
-      alt="Aryan" height="30" width="40" /></a>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
