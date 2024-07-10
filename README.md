@@ -28,7 +28,7 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <div align = "center>
  ![](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=c0der-aryan&theme=radical&hide_border=false)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=c0der-aryan&theme=radical&hide_border=false)
 </div>
 
 
