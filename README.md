@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4BFDF2&center=true&vCenter=true&random=false&width=700&lines=Hello+Fellow+%3C+Syntax+Sifters%2F+%3E!+%F0%9F%A7%A9;print(%22+This+is+Aryan+Sood+!+%22);printf(%22+PyTorch+%F0%9F%94%A5+%22)" alt="Typing SVG" /></a> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4BFDF2&center=true&vCenter=true&random=false&width=700&lines=Hello+Fellow+%3C+Syntax+Sifters%2F+%3E!+%F0%9F%A7%A9;print(%22+This+is+Aryan+Sood+!+%22);printf(%22+PyTorch+%F0%9F%94%A5+%22)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4BFDF2&center=true&vCenter=true&random=false&width=800&lines=Hello+Fellow+%3C+Syntax+Sifters%2F+%3E!+%F0%9F%A7%A9;print(%22+This+is+Aryan+Sood+!+%22);printf(%22+PyTorch+%F0%9F%94%A5+%22);+Thank+you+for+visiting+my+GitHub+account!" alt="Typing SVG" /></a>
 </h1>
 👋 Hi, I'm Aryan! Thank you for visiting my GitHub account!
 
