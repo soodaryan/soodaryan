@@ -27,8 +27,13 @@
 # 📈 GitHub stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-![c0der-aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+ 
+![c0der-aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c0der-aryan&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=c0der-aryan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=c0der-aryan&theme=radical&hide_border=false)<br/>
+
 </div>
 
 
