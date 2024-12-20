@@ -9,7 +9,7 @@
 💻 Just a Syntax Sifter navigating the digital seas, debugging the glitches, and crafting clean code one line at a time. 🧩💻 <br/>
 👨🏻‍💻 BTech undergrad trying to make a career in research <br/>
 🙋🏻‍♂️ Studying Computer Science at Delhi Technological University (earlier DCE)<br/>
-💭 Currently learning about machine learning and deep learning!<br/>
+💭 Currently learning about machine learning, deep learning and generative AI!<br/>
 🍄 PyTorch uwu
 
 # 💻 Tech Stack
