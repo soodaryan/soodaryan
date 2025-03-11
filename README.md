@@ -1,8 +1,7 @@
-<!-- Level 3: Add custom code -->
-
 <h1 align="center">
-<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4BFDF2&center=true&vCenter=true&random=false&width=700&lines=Hello+Fellow+%3C+Syntax+Sifters%2F+%3E!+%F0%9F%A7%A9;print(%22+This+is+Aryan+Sood+!+%22);printf(%22+PyTorch+%F0%9F%94%A5+%22)" alt="Typing SVG" /></a> -->
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4BFDF2&center=true&vCenter=true&random=false&width=800&lines=Hello+Fellow+%3C+Syntax+Sifters%2F+%3E!+%F0%9F%A7%A9;print(%22+This+is+Aryan+Sood+!+%F0%9F%91%8B%22);printf(%22+PyTorch+%F0%9F%94%A5+%22);+Thank+you+for+visiting+my+GitHub+account!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=4BFDF2&center=true&vCenter=true&random=false&width=800&lines=Hello+Fellow+%3C+Syntax+Sifters%2F+%3E!+%F0%9F%A7%A9;print(%22+This+is+Aryan+Sood+!+%F0%9F%91%8B%22);printf(%22+PyTorch+%F0%9F%94%A5+%22);+Thank+you+for+visiting+my+GitHub+account!" alt="Typing SVG" />
+  </a>
 </h1>
 
 # About Me: 
@@ -33,9 +32,8 @@
 
 </div>
 
-
 # Socials 🙌🏻 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=blue&style=flat)](https://www.linkedin.com/in/soodaryan/)
 [![Devfolio](https://img.shields.io/badge/Devfolio-1A73E8.svg?style=flat&logo=devfolio&logoColor=white)](https://devfolio.co/@roadkill)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/_soodaryan/) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white&style=flat)](https://www.kaggle.com/soodaryan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white&style=flat)](https://www.kaggle.com/soodaryan) 
