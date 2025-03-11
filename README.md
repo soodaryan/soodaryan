@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# About Me: 
+# 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎: 
 💻 Just a Syntax Sifter navigating the digital seas, debugging the glitches, and crafting clean code one line at a time. 🧩💻 <br/>
 👨🏻‍💻 BTech undergrad trying to make a career in research <br/>
 🙋🏻‍♂️ Studying Computer Science at Delhi Technological University (earlier DCE)<br/>
