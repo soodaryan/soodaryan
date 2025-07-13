@@ -63,10 +63,16 @@
 
 ## 📡 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soodaryan/)
-[![Devfolio](https://img.shields.io/badge/Devfolio-1A73E8.svg?logo=devfolio&logoColor=white)](https://devfolio.co/@roadkill)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_soodaryan/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/soodaryan)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/soodaryan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/TensorKid)
+[![Devfolio](https://img.shields.io/badge/Devfolio-1A73E8.svg?logo=devfolio&logoColor=white&style=for-the-badge)](https://devfolio.co/@roadkill)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/soodaryan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_soodaryan/)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white&style=for-the-badge)](mailto:007aryansood@gmail.com)
+
+</div>
 
 
 ## 🧠 Fun Fact
