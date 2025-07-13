@@ -30,8 +30,6 @@
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> <!-- Vertex AI -->
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> <!-- BigQuery -->
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="24" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
@@ -43,13 +41,13 @@
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img height="24" src="https://playwright.dev/img/playwright-logo.svg" />
   <img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Selenium_Logo.png" />
-  <img height="24" src="https://raw.githubusercontent.com/pola-rs/polars/main/docs/logo.svg" />
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img height="24" src="https://raw.githubusercontent.com/pola-rs/polars/main/docs/logo.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
 </p>
-
 </div>
 
 
