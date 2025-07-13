@@ -9,7 +9,7 @@
 - :office: &nbsp;CSE undergrad at **Delhi Technological University**
 - :speech_balloon: &nbsp;I like to talk about **Deep Learning** and **Art**
 - :book: &nbsp;Researcher-in-progress
-- 🏆: &nbsp;7x Hackathon winner 
+- :trophy: &nbsp;7x Hackathon winner 
 - :computer: &nbsp;Builder of open-source ML tools
 
 ## 🛠️ Tech Stack
