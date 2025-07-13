@@ -45,9 +45,10 @@
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img height="24" src="[https://upload.wikimedia.org/wikipedia/commons/8/87/Neo4j_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosear.ch%2Flogos%2Fneo4j%2Findex.html&psig=AOvVaw0IUTtfy8IUYKk9ADng6_6R&ust=1752529184549000&source=images&cd=vfe&opi=89978449&ved=0CBgQjhxqFwoTCLCnto3muo4DFQAAAAAdAAAAABAE)" />
+  <img height="24" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosear.ch%2Flogos%2Fneo4j%2Findex.html&psig=AOvVaw0IUTtfy8IUYKk9ADng6_6R&ust=1752529184549000&source=images&cd=vfe&opi=89978449&ved=0CBgQjhxqFwoTCLCnto3muo4DFQAAAAAdAAAAABAE" />
 
 </p>
+
 </div>
 
 
