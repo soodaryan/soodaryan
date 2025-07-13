@@ -13,7 +13,6 @@
 - :computer: &nbsp;Builder of open-source ML tools
 
 ## 🛠️ Tech Stack
-<div align="center">
 <p>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -44,9 +43,6 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 </p>
-
-
-</div>
 
 
 ## 🚀 GitHub Stats
