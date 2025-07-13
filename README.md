@@ -24,7 +24,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 ## 🚀 GitHub Stats
 
@@ -33,7 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soodaryan&theme=radical&hide_border=false"/>
 </div>
 
----
 
 ## 📡 Let's Connect
 
@@ -42,7 +40,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_soodaryan/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/soodaryan)
 
----
 
 ## 🧠 Fun Fact
 
