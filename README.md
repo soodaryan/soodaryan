@@ -26,7 +26,6 @@
   <img height="24" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  <img height="24" src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/assets/llama_icon.png" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
