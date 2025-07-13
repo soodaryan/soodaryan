@@ -45,7 +45,8 @@
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+  <img height="24" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Neo4j_logo.svg" />
+
 </p>
 </div>
 
