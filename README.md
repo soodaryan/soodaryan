@@ -6,9 +6,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergrad at **Delhi Technological University (DTU)**, passionate about building intelligent systems that integrate vision, language, and reasoning.  
-Currently exploring **Deep Learning**, **Generative AI**, and **Multimodal Retrieval**.  
-Hackathon winner, researcher-in-progress, and contributor to open-source ML projects.
+I'm a Computer Science undergrad at **Delhi Technological University (DTU)**, driven to build intelligent systems that merge vision, language, and reasoning.  
+Hackathon winner. Researcher-in-progress. Builder of open-source ML tools.  
 
 ---
 
