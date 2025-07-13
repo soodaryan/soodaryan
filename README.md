@@ -45,7 +45,6 @@
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img height="24" src="https://raw.githubusercontent.com/pola-rs/polars/main/docs/logo.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
 </p>
 </div>
