@@ -15,41 +15,14 @@
 ## 🛠️ Tech Stack
 <div align="center">
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-fff?logo=python&logoColor=3670A0&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-PyTorch-fff?logo=pytorch&logoColor=EE4C2C&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-fff?logo=tensorflow&logoColor=FF6F00&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-HuggingFace-fff?logo=huggingface&logoColor=FFD21F&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-scikit--learn-fff?logo=scikit-learn&logoColor=F7931E&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-OpenCV-fff?logo=opencv&logoColor=5C3EE8&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-LlamaIndex-fff?logo=llama&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-LangGraph-fff?logo=graphql&logoColor=FF4081&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Streamlit-fff?logo=streamlit&logoColor=FF4B4B&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Google%20Cloud-fff?logo=google-cloud&logoColor=4285F4&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-VertexAI-fff?logo=google&logoColor=4285F4&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-BigQuery-fff?logo=google-bigquery&logoColor=669DF6&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Docker-fff?logo=docker&logoColor=2496ED&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Linux-fff?logo=linux&logoColor=FCC624&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-NumPy-fff?logo=numpy&logoColor=013243&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Pandas-fff?logo=pandas&logoColor=150458&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-fff?logo=plotly&logoColor=003366&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Polars-fff?logo=polars&logoColor=3178C6&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-MySQL-fff?logo=mysql&logoColor=4479A1&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-C-fff?logo=c&logoColor=00599C&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-C++-fff?logo=c%2b%2b&logoColor=00599C&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-HTML5-fff?logo=html5&logoColor=E34F26&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-CSS3-fff?logo=css3&logoColor=1572B6&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Git-fff?logo=git&logoColor=F05032&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-GitHub-fff?logo=github&logoColor=181717&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-VSCode-fff?logo=visual-studio-code&logoColor=007ACC&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Jupyter-fff?logo=jupyter&logoColor=F37626&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Postman-fff?logo=postman&logoColor=FF6C37&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Selenium-fff?logo=selenium&logoColor=43B02A&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Playwright-fff?logo=playwright&logoColor=2EAD33&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Figma-fff?logo=figma&logoColor=F24E1E&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Kaggle-fff?logo=kaggle&logoColor=20BEFF&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Colab-fff?logo=google-colab&logoColor=F9AB00&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Neo4j-fff?logo=neo4j&logoColor=4581C3&style=flat-square"/>
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img height="24" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+  <!-- add more logos similarly -->
 </p>
+
 
 </div>
 
