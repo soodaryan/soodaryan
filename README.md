@@ -39,7 +39,6 @@
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img height="24" src="https://playwright.dev/img/playwright-logo.svg" />
-  <img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Selenium_Logo.png" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
