@@ -7,12 +7,10 @@
 ## 👨‍💻 About Me
 
 - :office: &nbsp;CSE undergrad at **Delhi Technological University**
-- :speech_balloon: &nbsp;I like to talk about **Deep Learning** and **art**
-- :seedling: &nbsp;Researcher-in-progress
-- :book: &nbsp;7x Hackathon winner 
+- :speech_balloon: &nbsp;I like to talk about **Deep Learning** and **Art**
+- :book: &nbsp;Researcher-in-progress
+- 🏆: &nbsp;7x Hackathon winner 
 - :computer: &nbsp;Builder of open-source ML tools
-
----
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -53,8 +51,6 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </div>
-
-
 
 
 ## 🚀 GitHub Stats
