@@ -6,14 +6,6 @@
 
 ## 👨‍💻 About Me
 
-- CSE undergrad @ ** (DTU)**
-- Hackathon winner. Researcher-in-progress. Builder of open-source ML tools.  
-- Driven to build intelligent systems that merge vision, language, and reasoning.  
-
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
-
 - :office: &nbsp;CSE undergrad at **Delhi Technological University**
 - :speech_balloon: &nbsp;I like to talk about **Deep Learning** and **art**
 - :seedling: &nbsp;Researcher-in-progress
